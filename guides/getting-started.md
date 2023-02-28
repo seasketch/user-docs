@@ -1,51 +1,43 @@
 # Getting Started
 
+
+
 {% hint style="info" %}
 This article covers:
 
 * [An intro to the basic layout of a SeaSketch project](getting-started.md#basic-page-layout)
 * [How to sign in, create an account, and edit your profile](getting-started.md#signing-in)
-* [How to access help resources](getting-started.md#undefined)
 {% endhint %}
 
-## Basic Page Layout
+## Project Page Layout
 
-When you have made it to your project homepage, read the About This Project window thoroughly.  Then, “x” out in the top right corner to begin using SeaSketch.
+On any SeaSketch project homepage you'll see a layout like the one below.
 
-SeaSketch can be divided into a _**Map Viewer**_ on the left, with three main tabs on the right.  These three tabs contain the three main functions of the tool: _**Data Layers**_, _**My Plans**_ (for sketching, editing, and analyzing), and _**Participate**_ (with forums and surveys).
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-27 at 4.24.32 PM.png" alt=""><figcaption><p>Landing page for the Blue Azores project</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/basic_layout.png" alt=""><figcaption><p>Basic layout of a SeaSketch project</p></figcaption></figure>
+This interface is composed of the main menu on the left where you can navigate to the various tools and options the platform offers, and the map viewer on the right. These elements are described in detail in their respective guides.&#x20;
 
-Not all users will have access to all three tabs.  Project administrators may also set restrictions on what data you have access to, what forums and surveys are visible to you, which forums to which you can respond, and what types of sketches you can create.
+The arrow at the top right of the menu will collapse the menu panel for a better view of the map. Clicking the SeaSketch icon in the bottom left will take you to the main SeaSketch homepage.
 
-_**To learn more about what you can do in the map viewer and the three tabs, read the introductory articles for each one, next up in this intro series!**_
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 1.59.11 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Signing In
 
-To sign in, click 'Sign In' in the top right corner of the seasketch.org homepage, or any project page.  Here, you may enter your login credentials, or sign in using Google or Facebook. (see below for details).
+In order to contribute to a project you have to be logged in. To do so, click 'Sign In' on the main menu.  Here, you may enter your SeaSketch account credentials, sign in using Google, or create an account, as shown below.
 
-<figure><img src="../.gitbook/assets/sign_in.png" alt=""><figcaption><p>Sign in using the window prompt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 10.14.03 AM (1).png" alt=""><figcaption><p>SeaSketch sign in options</p></figcaption></figure>
 
-## Your Profile
+## Creating Your Profile and Joining a Project
 
-In SeaSketch, your name and email are stored as a profile.  You can add a picture and a bio to this profile.
+Once you've logged into your account, you can create a profile and join the project. Joining a project is necessary to participate in discussion forums and allows administrators to grant you access to protected data layers.
 
-_**To access and edit your profile**_:
+To create your profile start by clicking 'My Profile' on the main menu — this should appear as an option if you have successfully signed in to your account. That link will take you here:
 
-* Click on your name in the top right corner (make sure you’re signed in!)
-* Select ‘My Profile’ from the drop down menu
-* Edit the text fields in the Your Profile pop-up box, then click ‘Save Changes’          &#x20;
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 10.39.19 AM.png" alt=""><figcaption></figcaption></figure>
 
-_**To change your gravatar icon**_ into a profile picture by selecting the link beneath your default gravatar icon and uploading a photo you wish to associate with your email.
+From this page you can edit your profile. The only field required to join the project is your full name, but you can add a profile picture, nickname (username), email, and affiliations to better identify yourself in discussion forums.\
+\
+Simply fill in your name, add any optional information, and click 'Join Project'. Once you've joined, you should be returned to the project homepage. You can edit your profile at any time by clicking the same 'My Profile' link. \
+\
+Once you've joined the project, you can start exploring and contributing! The full suite of SeaSketch tools you can use to do so are outlined in the following pages.
 
-<figure><img src="../.gitbook/assets/your_profile.png" alt=""><figcaption><p>Edit your profile </p></figcaption></figure>
-
-## Help Center and Knowledge Base
-
-If you are having trouble with SeaSketch, or forget how to complete a task, click '? help' in the upper right corner to access our help services.
-
-Within our help portal, you may:
-
-* Search and read helpful articles in the Knowledge Base \[which you may have already figured out if you're reading this ;)].  Always look for answers here before contacting our developers, as many common problems are already answered
-* Contact us.  You may enter text about your question or problem, fill in your email address, and click Send message, to directly ask questions or communicate problems to SeaSketch developers
-* Give Feedback.  You may give us feedback about SeaSketch features and functionality by clicking on “Give Feedback”
