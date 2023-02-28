@@ -12,33 +12,31 @@ This article covers:
 
 ## Basic Page Layout
 
-On any SeaSketch project page you'll see a page layout similar to the one below.
+On any SeaSketch project page you'll see a page layout like the one below.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-02-27 at 4.24.32 PM.png" alt=""><figcaption><p>SeaSketch landing page for the Blue Azores project</p></figcaption></figure>
 
-The project landing page is composed of the navigation panel on the left and the map viewer on the right.
-
-_**To learn more about what you can do in the map viewer and the three tabs, read the introductory articles for each one, next up in this intro series!**_
+The project landing page is composed of the main menu on the left and the map viewer on the right. These elements are described in detail in the following sections.&#x20;
 
 ## Signing In
 
-To sign in, click 'Sign In' in the top right corner of the seasketch.org homepage, or any project page.  Here, you may enter your login credentials, or sign in using Google or Facebook. (see below for details).
+To sign in, click 'Sign In' on the main menu.  Here, you may enter your login credentials, sign in using Google, or create an account. (see below for details).
 
-<figure><img src="../.gitbook/assets/sign_in.png" alt=""><figcaption><p>Sign in using the window prompt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 10.14.03 AM (1).png" alt=""><figcaption><p>SeaSketch sign in options</p></figcaption></figure>
 
-## Your Profile
+## Creating Your Profile and Joining a Project
 
-In SeaSketch, your name and email are stored as a profile.  You can add a picture and a bio to this profile.
+Once you've logged into your account, you can create a profile and join the project you're interested in. Joining a project is necessary to participate in discussion forums and allows administrators to grant you access to protected data layers.
 
-_**To access and edit your profile**_:
+To create your profile start by clicking 'My Profile' on the main menu — this should appear as an option if you have successfully signed in to your account. That link will take you here:
 
-* Click on your name in the top right corner (make sure you’re signed in!)
-* Select ‘My Profile’ from the drop down menu
-* Edit the text fields in the Your Profile pop-up box, then click ‘Save Changes’          &#x20;
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 10.39.19 AM.png" alt=""><figcaption></figcaption></figure>
 
-_**To change your gravatar icon**_ into a profile picture by selecting the link beneath your default gravatar icon and uploading a photo you wish to associate with your email.
-
-<figure><img src="../.gitbook/assets/your_profile.png" alt=""><figcaption><p>Edit your profile </p></figcaption></figure>
+From this page you can edit your profile. The only field required to join the project is your full name, but you can add a profile picture, nickname (username), email, and affiliations to better identify yourself in discussion forums.\
+\
+Simply fill in your name, add any optional information, and click 'Join Project'. Once you've joined, you should be returned to the project homepage. You can edit your profile at any time by clicking the same 'My Profile' link. \
+\
+Once you've joined the project, you can start exploring and contributing! The full suite of SeaSketch tools you can use to do so are outlined in the following sections.
 
 ## Help Center and Knowledge Base
 
