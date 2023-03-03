@@ -11,19 +11,29 @@ This article covers:&#x20;
 
 ### Exploring the map
 
-_To move around_ the map, click and drag.  You may also right click on the name of a specific data layer in the Data Layers tab at right, and select “Zoom to Extent” from the dropdown menu.
+_**To move around**_ the map, click and drag.&#x20;
 
-_To zoom in and out_, use the ‘+’ and ‘-‘ buttons in the top left corner of the map.
+_**To zoom in and out**_**,** you can use the <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">and <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> buttons in the top right corner of the map, or the scroll wheel on your mouse (or equivalent hand gesture on a touchpad). Using the scroll wheel or touchpad offers more granular zooming.
 
-_To view information_ about a point or feature on the map, click directly on that feature on the map.  A pop-up box will appear with either information about the point or links to access more information.  Not all features have pop-ups associated with them.
+_**To zoom in on a particular area**_, hold `shift` and click and drag your cursor. A rectangle should appear — this rectangle will become the new bounds of the mapviewer window.
 
-<figure><img src="../.gitbook/assets/explore_map.png" alt=""><figcaption><p>A view of the map explorer</p></figcaption></figure>
+_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> button in the top right
 
-## Accessing and Using the Map Toolbox
+<figure><img src="../.gitbook/assets/mapviewer_layout (1).png" alt=""><figcaption><p>Mapviewer interface layout</p></figcaption></figure>
+
+_**To zoom to the extent of a data layer**_**,** right click on the layer and and click 'Zoom to bounds'
+
+<figure><img src="../.gitbook/assets/zoom_to_bounds.png" alt=""><figcaption><p>Zoom to bounds of a particular data layer</p></figcaption></figure>
+
+## Choosing basemaps
+
+SeaSketch allows you to choose between different mapviewer basemaps. The selection of basemaps depends on the project. To select a different basemap, click 'Maps' in the main menu or the map icon <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> if the menu is collapsed. You'll see the following panel and can click on your desired basemap:
+
+<figure><img src="../.gitbook/assets/choose-basemap.png" alt=""><figcaption></figcaption></figure>
+
+## Viewing data layers
 
 Click on the wrench icon in the top left corner of the map viewer to show a dropdown menu of all map tools.
-
-<figure><img src="../.gitbook/assets/map_toolbox.png" alt=""><figcaption><p>Using the map toolbox</p></figcaption></figure>
 
 You may select or unselect the **north arrow**, **scale bar**, **location search bar**, and **measurement tool** items to view or hide these features.  The measurement tools are discussed in detail below.
 
