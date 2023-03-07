@@ -4,7 +4,7 @@
 This article covers:&#x20;
 
 * [Exploring the map](the-map-viewer.md#what-can-i-do-in-the-map-viewer)
-* [Accessing and using the map toolbox](the-map-viewer.md#accessing-and-using-the-map-toolbox)
+* [Choosing basemaps](the-map-viewer.md#choosing-basemaps)
 * [Printing and exporting the map](the-map-viewer.md#undefined)
 * [Using the map's measuring tools](the-map-viewer.md#undefined)
 {% endhint %}
@@ -17,7 +17,7 @@ _**To zoom in and out**_**,** you can use the <img src="../.gitbook/assets/image
 
 _**To zoom in on a particular area**_, hold `shift` and click and drag your cursor. A rectangle should appear — this rectangle will become the new bounds of the mapviewer window.
 
-_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> button in the top right
+_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> button in the top right
 
 <figure><img src="../.gitbook/assets/mapviewer_layout (1).png" alt=""><figcaption><p>Mapviewer interface layout</p></figcaption></figure>
 
@@ -29,48 +29,4 @@ _**To zoom to the extent of a data layer**_**,** right click on the layer and an
 
 SeaSketch allows you to choose between different mapviewer basemaps. The selection of basemaps depends on the project. To select a different basemap, click 'Maps' in the main menu or the map icon <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> if the menu is collapsed. You'll see the following panel and can click on your desired basemap:
 
-<figure><img src="../.gitbook/assets/choose-basemap.png" alt=""><figcaption></figcaption></figure>
-
-## Viewing data layers
-
-Click on the wrench icon in the top left corner of the map viewer to show a dropdown menu of all map tools.
-
-You may select or unselect the **north arrow**, **scale bar**, **location search bar**, and **measurement tool** items to view or hide these features.  The measurement tools are discussed in detail below.
-
-To use the **location search bar**, simply type the specific location you would like to search for in the search bar that appears in the top left corner.&#x20;
-
-**Select show sidebar** to view or hide the tabs at right.  When you un-select this item, you are able to view the map in the full extent of your browser window, without the Data Layers, My Plans, and Participate tabs in view.
-
-**Reset map extent** returns the map you are viewing to the original extent displayed in the project.  This map extent was saved by project administrators, and often shows the whole geographic scope of the project.
-
-**Bookmark this map** allows you to save a link to the specific map extent you are currently viewing, and the data layers currently selected.  A pop-up box will appear with a link that you may copy, to share with others when discussing the map outside of SeaSketch.  The pop-up box also contains information about the extent and data layers saved in the bookmark.
-
-## Bookmarking, Printing, and Exporting
-
-**Bookmark this map** allows you to save a link to the specific map extent you are currently viewing, and the data layers currently selected.  A pop-up box will appear with a link that you may copy, to share with others when discussing the map outside of SeaSketch.  The pop-up box also contains information about the extent and data layers saved in the bookmark.
-
-<figure><img src="../.gitbook/assets/map_bookmark.png" alt=""><figcaption><p>Bookmarking the map</p></figcaption></figure>
-
-**Print or Export Map** allows you to print the map you are currently viewing, and save them as a PNG image or PDF document.  You may choose the format of the document, and whether to include a legend with the map.  Click ‘Print’ to download the file document.  You may then print the document from your computer.
-
-<figure><img src="../.gitbook/assets/printexport_map.png" alt=""><figcaption><p>Printing and exporting the map</p></figcaption></figure>
-
-## Using the Measurement Tool
-
-<figure><img src="../.gitbook/assets/map_measurement_tools.png" alt=""><figcaption><p>A view of the map measuring tools</p></figcaption></figure>
-
-_To access the measurement tools_, click the wrench icon in the top left hand corner of the map viewer, and select measurement tools from the drop down menu.\
-
-
-_A measurement tools window_ will appear on the map.  This window contains area, distance, and geographic location measurement tools.  Close the window by clicking the ‘x’ in the top right corner.
-
-_**Measure area**_
-
-* Click the polygon ruler icon.
-* Click directly on the map, at the vertices of the area you would like to measure.
-* Double click to complete the polygon.&#x20;
-* Area will be displayed below Measurement Results.
-
-_**Measure distance**_ by clicking on the vector ruler icon.  Click on the map to create the path that you would like to measure.  Each click will place a flag on the map, so you can create complex paths, rather than simply distance between two points.  Double click to complete the path.  The total distance will be displayed below Measurement Results.
-
-_**Measure location**_ of a point by clicking on the geographical point icon.  Click on the map in the place you would like to measure the coordinates.  A flag will mark the location selected.  To measure a different point, click the geographical tool icon to remove the first flag, and click the new location on the map to drop a new flag.
+<figure><img src="../.gitbook/assets/choose-basemap.png" alt=""><figcaption><p>Selecting a basemap for the mapviewer</p></figcaption></figure>
