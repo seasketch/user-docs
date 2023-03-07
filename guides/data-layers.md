@@ -11,9 +11,9 @@ This article covers:&#x20;
 
 ## Viewing Data Layers in the Map Viewer
 
-To view the list of data layers contained in the project click 'Overlay Layers' or the layer stack<img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> icon.\
+To view the list of data layers contained in the project click 'Overlay Layers' or the layer stack<img src="../.gitbook/assets/image.png" alt="" data-size="line"> icon.\
 \
-In most projects, layers will be organized into folders. Click the arrow <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> next to a folder to expand the contents. Click a layer to add it to the map.
+In most projects, layers will be organized into folders. Click the arrow <img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> next to a folder to expand the contents. Click a layer to add it to the map.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-03-06 at 9.06.04 PM.png" alt=""><figcaption><p>Adding data layers to mapviewer</p></figcaption></figure>
 

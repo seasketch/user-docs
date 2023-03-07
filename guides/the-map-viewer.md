@@ -5,8 +5,6 @@ This article covers:&#x20;
 
 * [Exploring the map](the-map-viewer.md#what-can-i-do-in-the-map-viewer)
 * [Choosing basemaps](the-map-viewer.md#choosing-basemaps)
-* [Printing and exporting the map](the-map-viewer.md#undefined)
-* [Using the map's measuring tools](the-map-viewer.md#undefined)
 {% endhint %}
 
 ### Exploring the map
@@ -17,7 +15,7 @@ _**To zoom in and out**_**,** you can use the <img src="../.gitbook/assets/image
 
 _**To zoom in on a particular area**_, hold `shift` and click and drag your cursor. A rectangle should appear — this rectangle will become the new bounds of the mapviewer window.
 
-_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> button in the top right
+_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> button in the top right
 
 <figure><img src="../.gitbook/assets/mapviewer_layout (1).png" alt=""><figcaption><p>Mapviewer interface layout</p></figcaption></figure>
 
