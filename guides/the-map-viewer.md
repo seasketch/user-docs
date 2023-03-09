@@ -17,7 +17,7 @@ _**To zoom in on a particular area**_, hold `shift` and click and drag your curs
 
 _**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> button in the top right
 
-<figure><img src="../.gitbook/assets/mapviewer_layout (1).png" alt=""><figcaption><p>Mapviewer interface layout</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mapviewer_layout_multi-arrow.png" alt=""><figcaption></figcaption></figure>
 
 _**To zoom to the extent of a data layer**_**,** right click on the layer and and click 'Zoom to bounds'
 
