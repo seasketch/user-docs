@@ -8,6 +8,10 @@
 * [The Map Viewer](guides/the-map-viewer.md)
 * [Data Layers](guides/data-layers.md)
 
+***
+
+* [Sketching Tools](sketching-tools.md)
+
 ## FAQ
 
 * [General FAQ](faq/general-faq.md)
