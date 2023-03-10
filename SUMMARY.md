@@ -7,10 +7,7 @@
 * [Getting Started](guides/getting-started.md)
 * [The Map Viewer](guides/the-map-viewer.md)
 * [Data Layers](guides/data-layers.md)
-
-***
-
-* [Sketching Tools](sketching-tools.md)
+* [Sketching Tools](guides/sketching-tools.md)
 
 ## FAQ
 
