@@ -26,7 +26,7 @@ Once you've selected the type of sketch you want to create, you'll enter the ske
 
 To start sketching, move your cursor onto the map viewer and click to create the first vertex of your polygon. From here, continue clicking to create additional vertices along the perimeter of your envisioned shape. When your shape is complete you can either double-click the end point or click your starting point to finish editing.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-09 at 2.45.16 PM.png" alt=""><figcaption><p>Sketching a new MPA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/drawing-shape.gif" alt=""><figcaption><p>Sketching a new shape</p></figcaption></figure>
 
 ### Automatic Clipping
 
@@ -68,4 +68,4 @@ SeaSketch reports are a major part of what makes the platform such a powerful pl
 
 To generate a report, simply right click the name of the area or network in the left panel and hit <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> in the dropdown menu
 
-<figure><img src="../.gitbook/assets/view-reports.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/view-reports.png" alt=""><figcaption><p>Generating reports for "MPA Network"</p></figcaption></figure>
