@@ -1,12 +1,12 @@
-# Data Layers
+# Overlay Layers
 
 {% hint style="info" %}
 This article covers:&#x20;
 
-* [Viewing data in the map viewer](data-layers.md#undefined)
-* [Changing basemaps](data-layers.md#changing-basemaps)
-* [Viewing the legend](data-layers.md#undefined)
-* [Adjusting layer order and transparency](data-layers.md#undefined)
+* [Viewing data in the map viewer](overlay-layers.md#undefined)
+* [Changing basemaps](overlay-layers.md#changing-basemaps)
+* [Viewing the legend](overlay-layers.md#undefined)
+* [Adjusting layer order and transparency](overlay-layers.md#undefined)
 {% endhint %}
 
 ## Viewing Data Layers in the Map Viewer

@@ -7,3 +7,24 @@ description: >-
 
 # Discussion Forums
 
+## Navigating Discussion Forums
+
+To access a project's discussion forums, click 'Discussion Forums' or the comment symbol <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> in the main menu. The Discussion Forum layout is shown below.
+
+<figure><img src="../.gitbook/assets/forum-interface.png" alt=""><figcaption><p>Discussion forum interface</p></figcaption></figure>
+
+## Viewing Discussions
+
+You can click on a forum and then a thread, or jump right into a thread on the 'Latest Discussions' feed. Once in a thread you'll likely see comments and plans from other project participants. A checkbox appears next plans — click the checkbox to add that plan to the map viewer.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-14 at 3.13.05 PM.png" alt=""><figcaption><p>Viewing a proposed plan in a discussion forum</p></figcaption></figure>
+
+You can view reports on plans same as in the Overlay Layers interface — simply right click on the plan and select 'View Reports'.
+
+<figure><img src="../.gitbook/assets/forum-report.png" alt=""><figcaption><p>Viewing reports in discussion forums</p></figcaption></figure>
+
+## Contributing to Discussions
+
+To contribute, scroll to the bottom of a thread — there you can type a reply and share plans.&#x20;
+
+<figure><img src="../.gitbook/assets/share-plans.png" alt=""><figcaption><p>Replying to a discussion thread</p></figcaption></figure>

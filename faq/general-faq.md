@@ -28,6 +28,6 @@ Plans that have been shared to a forum topic may be downloaded as shapefiles. An
 
 <summary>How can I search for map layers?</summary>
 
-Using the search box at the top of the [Data Layers](../guides/data-layers.md) tab, you may search for map layers within your project. Layers will be searched based on the layer name and any metadata and keywords that have been added by the administrator of the project.
+Using the search box at the top of the [Data Layers](../guides/overlay-layers.md) tab, you may search for map layers within your project. Layers will be searched based on the layer name and any metadata and keywords that have been added by the administrator of the project.
 
 </details>
