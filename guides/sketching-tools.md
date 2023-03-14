@@ -14,7 +14,7 @@ To get started sketching, click 'Sketching Tools' or the polygon symbol <img src
 
 ## Create a New Sketch
 
-To create a sketch, click <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
+To create a sketch, click <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
 
 <figure><img src="../.gitbook/assets/sketching.png" alt=""><figcaption><p>Creating a new sketch</p></figcaption></figure>
 
@@ -68,7 +68,7 @@ To create a folder or network, click <img src="../.gitbook/assets/image (11).png
 
 SeaSketch reports are a major part of what makes the platform such a powerful planning tool. Reports can tell you how your proposed protected area, or network of areas, meets conservation goals and impacts ocean use.
 
-To generate a report, simply right click the name of the area or network in the left panel and hit <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> in the dropdown menu
+To generate a report, simply right click the name of the area or network in the left panel and hit <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> in the dropdown menu
 
 <figure><img src="../.gitbook/assets/view-reports.png" alt=""><figcaption><p>Generating reports for "MPA Network"</p></figcaption></figure>
 

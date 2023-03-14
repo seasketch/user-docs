@@ -11,7 +11,7 @@ This article covers:&#x20;
 
 _**To move around**_ the map, click and drag.&#x20;
 
-_**To zoom in and out**_**,** you can use the <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">and <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> buttons in the top right corner of the map, or the scroll wheel on your mouse (or equivalent hand gesture on a touchpad). Using the scroll wheel or touchpad offers more granular zooming.
+_**To zoom in and out**_**,** you can use the <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line">and <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> buttons in the top right corner of the map, or the scroll wheel on your mouse (or equivalent hand gesture on a touchpad). Using the scroll wheel or touchpad offers more granular zooming.
 
 _**To zoom in on a particular area**_, hold `shift` and click and drag your cursor. A rectangle should appear — this rectangle will become the new bounds of the mapviewer window.
 
