@@ -35,7 +35,7 @@ To create your profile start by clicking 'My Profile' on the main menu — this 
 
 <figure><img src=".gitbook/assets/Screenshot 2023-02-28 at 10.39.19 AM.png" alt=""><figcaption></figcaption></figure>
 
-From this page you can edit your profile. The only field required to join the project is your full name, but you can add a profile picture, nickname (username), email, and affiliations to better identify yourself in discussion forums.\
+From this page you can edit your profile. The only field required to join the project is your full name, but we encourage you to add a profile picture, nickname (username), email, and affiliations to better identify yourself in discussion forums.\
 \
 Simply fill in your name, add any optional information, and click 'Join Project'. Once you've joined, you should be returned to the project homepage. You can edit your profile at any time by clicking the same 'My Profile' link. \
 \
