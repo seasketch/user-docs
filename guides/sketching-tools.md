@@ -80,3 +80,7 @@ Reports contain at least two sections which you can navigate between using the t
 
 ### Viewing report layers
 
+Each report metric is calculated using a specific data layer. You can view the associated layer in the map viewer with the 'Map' toggle <img src="../.gitbook/assets/map-toggle.png" alt="" data-size="line"> located to the right of the report item.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-14 at 10.48.40 AM.png" alt=""><figcaption></figcaption></figure>
+
