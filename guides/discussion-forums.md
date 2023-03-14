@@ -9,7 +9,7 @@ description: >-
 
 ## Navigating Discussion Forums
 
-To access a project's discussion forums, click 'Discussion Forums' or the comment symbol <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> in the main menu. The Discussion Forum layout is shown below.
+To access a project's discussion forums, click 'Discussion Forums' or the comment symbol <img src="../.gitbook/assets/image (1) (4).png" alt="" data-size="line"> in the main menu. The Discussion Forum layout is shown below.
 
 <figure><img src="../.gitbook/assets/forum-interface.png" alt=""><figcaption><p>Discussion forum interface</p></figcaption></figure>
 
