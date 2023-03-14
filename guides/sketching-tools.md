@@ -14,7 +14,7 @@ To get started sketching, click 'Sketching Tools' or the polygon symbol <img src
 
 ## Create a New Sketch
 
-To create a sketch, click <img src="../.gitbook/assets/image.png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
+To create a sketch, click <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
 
 <figure><img src="../.gitbook/assets/sketching.png" alt=""><figcaption><p>Creating a new sketch</p></figcaption></figure>
 
