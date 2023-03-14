@@ -14,7 +14,7 @@ To get started sketching, click 'Sketching Tools' or the polygon symbol <img src
 
 ## Create a New Sketch
 
-To create a sketch, click <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
+To create a sketch, click <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
 
 <figure><img src="../.gitbook/assets/sketching.png" alt=""><figcaption><p>Creating a new sketch</p></figcaption></figure>
 
@@ -42,7 +42,7 @@ To delete your shape and start over, simply click the trashcan symbol <img src="
 
 To edit your shape, you can drag existing vertices to new locations, or click and drag the smaller orange points between vertices to create new ones.
 
-Click <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> at the bottom when finished.
+Click <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> at the bottom when finished.
 
 <figure><img src="../.gitbook/assets/edit-shapes.png" alt=""><figcaption><p>Shape editing interface</p></figcaption></figure>
 
@@ -62,10 +62,16 @@ To create a folder or network, click <img src="../.gitbook/assets/image (11).png
 
 <figure><img src="../.gitbook/assets/create-network.gif" alt=""><figcaption><p>Creating a network and adding areas to it</p></figcaption></figure>
 
-## Generating Reports
+## Reports
+
+### Generating Reports
 
 SeaSketch reports are a major part of what makes the platform such a powerful planning tool. Reports can tell you how your proposed protected area, or network of areas, meets conservation goals and impacts ocean use.
 
 To generate a report, simply right click the name of the area or network in the left panel and hit <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> in the dropdown menu
 
 <figure><img src="../.gitbook/assets/view-reports.png" alt=""><figcaption><p>Generating reports for "MPA Network"</p></figcaption></figure>
+
+### Navigating Reports
+
+Reports contain at least two sections which you can navigate between using the tabs at the top of the report window. Two common sections are 'Viability' and 'Representation', as shown below. Scrolling down, you can view the various components of the report.
