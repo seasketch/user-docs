@@ -68,7 +68,7 @@ To create a folder or network, click <img src="../.gitbook/assets/image (11).png
 
 SeaSketch reports are a major part of what makes the platform such a powerful planning tool. Reports can tell you how your proposed protected area, or network of areas, meets conservation goals and impacts ocean use.
 
-To generate a report, simply right click the name of the area or network in the left panel and hit <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> in the dropdown menu
+To generate a report, simply right click the name of the area or network in the left panel and hit <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> in the dropdown menu
 
 <figure><img src="../.gitbook/assets/view-reports.png" alt=""><figcaption><p>Generating reports for "MPA Network"</p></figcaption></figure>
 
