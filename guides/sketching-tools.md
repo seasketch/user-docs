@@ -14,7 +14,7 @@ To get started sketching, click 'Sketching Tools' or the polygon symbol <img src
 
 ## Create a New Sketch
 
-To create a sketch, click <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
+To create a sketch, click <img src="../.gitbook/assets/image.png" alt="" data-size="line"> at the top of the panel. A dropdown menu will appear containing the various "sketch classes" that pertain to your project. The exact list of classes and parameters associated with each class tend to be unique to each project. If you're not sure which sketch class to use, talk to a project administrator.
 
 <figure><img src="../.gitbook/assets/sketching.png" alt=""><figcaption><p>Creating a new sketch</p></figcaption></figure>
 
@@ -42,7 +42,7 @@ To delete your shape and start over, simply click the trashcan symbol <img src="
 
 To edit your shape, you can drag existing vertices to new locations, or click and drag the smaller orange points between vertices to create new ones.
 
-Click <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> at the bottom when finished.
+Click <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> at the bottom when finished.
 
 <figure><img src="../.gitbook/assets/edit-shapes.png" alt=""><figcaption><p>Shape editing interface</p></figcaption></figure>
 
