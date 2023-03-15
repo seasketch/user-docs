@@ -7,7 +7,7 @@ This article covers:
 
 * [SeaSketch project layout](./#project-page-layout)
 * [Signing in](./#signing-in)
-* [Creating Your Profile and Joining a Project](./#creating-your-profile-and-joining-a-project)
+* [Creating your profile and joining a project](./#creating-your-profile-and-joining-a-project)
 {% endhint %}
 
 ## Project Page Layout
