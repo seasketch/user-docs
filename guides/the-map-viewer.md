@@ -15,7 +15,7 @@ _**To zoom in and out**_**,** you can use the <img src="../.gitbook/assets/image
 
 _**To zoom in on a particular area**_, hold `shift` and click and drag your cursor. A rectangle should appear — this rectangle will become the new bounds of the mapviewer window.
 
-_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> button in the top right
+_**To rotate the map or adjust the viewing angle**_, right click and drag. To return to a northward orientation, you can click the <img src="../.gitbook/assets/image (4) (2).png" alt="" data-size="line"> button in the top right
 
 <figure><img src="../.gitbook/assets/mapviewer_layout_multi-arrow.png" alt=""><figcaption></figcaption></figure>
 
