@@ -4,9 +4,8 @@
 This article covers:&#x20;
 
 * [Viewing data in the map viewer](overlay-layers.md#undefined)
-* [Changing basemaps](overlay-layers.md#changing-basemaps)
-* [Viewing the legend](overlay-layers.md#undefined)
-* [Adjusting layer order and transparency](overlay-layers.md#undefined)
+* [Layer values](overlay-layers.md#layer-values)
+* [Viewing metadata](overlay-layers.md#viewing-metadata)
 {% endhint %}
 
 ## Viewing Data Layers in the Map Viewer

@@ -3,11 +3,11 @@
 {% hint style="info" %}
 This article covers:&#x20;
 
-* [Exploring the map](the-map-viewer.md#what-can-i-do-in-the-map-viewer)
+* [Navigating the map](the-map-viewer.md#navigating-the-map)
 * [Choosing basemaps](the-map-viewer.md#choosing-basemaps)
 {% endhint %}
 
-### Exploring the map
+### Navigating the map
 
 _**To move around**_ the map, click and drag.&#x20;
 

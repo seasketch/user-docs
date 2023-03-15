@@ -5,8 +5,9 @@
 {% hint style="info" %}
 This article covers:
 
-* [An intro to the basic layout of a SeaSketch project](./#basic-page-layout)
-* [How to sign in, create an account, and edit your profile](./#signing-in)
+* [SeaSketch project layout](./#project-page-layout)
+* [Signing in](./#signing-in)
+* [Creating Your Profile and Joining a Project](./#creating-your-profile-and-joining-a-project)
 {% endhint %}
 
 ## Project Page Layout

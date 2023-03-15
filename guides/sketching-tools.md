@@ -6,7 +6,25 @@ description: >-
 
 # Sketching Tools
 
-## Navigate to Sketching Tools
+{% hint style="info" %}
+This article covers:
+
+* [Navigating to sketching tools](sketching-tools.md#navigating-to-sketching-tools)
+* [Creating a new sketch](sketching-tools.md#create-a-new-sketch)
+* [Sketching](sketching-tools.md#sketching)
+  * [Sketching a shape](sketching-tools.md#sketching-a-shape)
+  * [Automatic clipping](sketching-tools.md#automatic-clipping)
+  * [Editing and deleting shapes](sketching-tools.md#editing-and-deleting-shapes)
+  * [Adding a name and description](sketching-tools.md#adding-a-name-and-description)
+* [Organizing Sketches](sketching-tools.md#organizing-sketches)
+* [Downloading Sketches](sketching-tools.md#downloading-sketches)
+* [Reports](sketching-tools.md#reports)
+  * [Generating reports](sketching-tools.md#generating-reports)
+  * [Navigating reports](sketching-tools.md#navigating-reports)
+  * [Viewing report layers](sketching-tools.md#viewing-report-layers)
+{% endhint %}
+
+## Navigating to Sketching Tools
 
 To get started sketching, click 'Sketching Tools' or the polygon symbol <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> in the main menu. If you haven't made any sketches yet, the panel that appears will be blank as shown below.
 
@@ -28,7 +46,7 @@ To start sketching, move your cursor onto the map viewer and click to create the
 
 <figure><img src="../.gitbook/assets/drawing-shape.gif" alt=""><figcaption><p>Sketching a new shape</p></figcaption></figure>
 
-### Automatic Clipping
+### Automatic clipping
 
 When you finish editing a shape, you'll see its boundary briefly light up and become animated. Once this is complete, some parts of your shape might be cropped or clipped out. Most sketch classes will automatically remove certain areas whether they be land, areas extending beyond EEZ boundaries, or other areas specific to the project.
 
@@ -48,7 +66,7 @@ Click <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> a
 
 If a sketch has already been created, you can still edit it by clicking it on the map viewer or right clicking its name in the left panel and hitting 'Edit'.
 
-### Add name and description
+### Adding a name and description
 
 Adding a distinctive name and informative description is crucial for collaborative planning efforts. You can add these details within the sketching interface.
 
@@ -62,7 +80,7 @@ To create a folder or network, click <img src="../.gitbook/assets/image (11).png
 
 <figure><img src="../.gitbook/assets/create-network.gif" alt=""><figcaption><p>Creating a network and adding areas to it</p></figcaption></figure>
 
-### Downloading sketches
+## Downloading Sketches
 
 You can download any shapes you create as GeoJSON files. Just right click on the area or network you want to download and hit <img src="../.gitbook/assets/image.png" alt="" data-size="line">. GeoJSON files can easily be loaded into a desktop GIS program like ArcMap or QGIS.&#x20;
 
