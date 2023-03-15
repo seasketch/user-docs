@@ -12,3 +12,7 @@
 
 * [General FAQ](faq/general-faq.md)
 * [Is SeaSketch Free?](guides/is-seasketch-free.md)
+
+***
+
+* [Discussion Forums](discussion-forums.md)
