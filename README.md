@@ -12,7 +12,7 @@ This article covers:
 
 ## Project Page Layout
 
-On any SeaSketch project homepage you'll see a layout like the one below.
+On any SeaSketch project homepage you'll see a layout like the one below. The map will look different depending on the project.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-02-27 at 4.24.32 PM.png" alt=""><figcaption><p>Landing page for the Blue Azores project</p></figcaption></figure>
 
