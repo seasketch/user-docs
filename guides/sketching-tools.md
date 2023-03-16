@@ -78,6 +78,6 @@ To create a folder or network, click <img src="../.gitbook/assets/image (11).png
 
 ## Downloading Sketches
 
-You can download any shapes you create as GeoJSON files. Just right click on the area or network you want to download and hit <img src="../.gitbook/assets/image (13).png" alt="" data-size="line">. GeoJSON files can easily be loaded into a desktop GIS program like ArcMap or QGIS.&#x20;
+You can download any shapes you create as GeoJSON files. Just right click on the area or network you want to download and hit <img src="../.gitbook/assets/image (12).png" alt="" data-size="line">. GeoJSON files can easily be loaded into a desktop GIS program like ArcMap or QGIS.&#x20;
 
 <figure><img src="../.gitbook/assets/download-sketch.png" alt=""><figcaption><p>Downloading "MPA Network" as a GeoJSON file</p></figcaption></figure>
