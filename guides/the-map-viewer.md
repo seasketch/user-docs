@@ -7,7 +7,7 @@ This article covers:&#x20;
 * [Choosing basemaps](the-map-viewer.md#choosing-basemaps)
 {% endhint %}
 
-### Navigating the map
+## Navigating the map
 
 _**To move around**_ the map, click and drag.&#x20;
 
