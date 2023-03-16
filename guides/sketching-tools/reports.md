@@ -1,8 +1,8 @@
 ---
 description: >-
   SeaSketch reports are a major part of what makes the platform such a powerful
-  planning tool. Reports can tell you how your proposed protected area, or
-  network of areas, meets conservation goals and im
+  planning tool. Reports can tell you how your proposed area or network meets
+  conservation goals and impacts ocean use.
 ---
 
 # Reports
