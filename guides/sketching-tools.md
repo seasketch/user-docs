@@ -44,7 +44,7 @@ Once you've selected the type of sketch you want to create, you'll enter the ske
 
 To start sketching, move your cursor onto the map viewer and click to create the first vertex of your polygon. From here, continue clicking to create additional vertices along the perimeter of your envisioned shape. When your shape is complete you can either double-click the end point or click your starting point to finish editing.&#x20;
 
-<figure><img src="../.gitbook/assets/drawing-shape.gif" alt=""><figcaption><p>Sketching a new shape</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/drawing-shapes-2.gif" alt=""><figcaption><p>Sketching a new shape</p></figcaption></figure>
 
 ### Automatic clipping
 
@@ -78,7 +78,7 @@ If you create multiple sketches, you can group them in a couple ways. You can cr
 
 To create a folder or network, click <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> and select the respective option from the dropdown menu. After giving the grouping a name (and description in the case of a network), you can drag and drop individual areas to add them to the group.
 
-<figure><img src="../.gitbook/assets/create-network.gif" alt=""><figcaption><p>Creating a network and adding areas to it</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/create-network-2.gif" alt=""><figcaption><p>Creating a network and adding areas to it</p></figcaption></figure>
 
 ## Downloading Sketches
 
