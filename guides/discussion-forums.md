@@ -20,7 +20,7 @@ This article covers:
 
 To access a project's discussion forums, click 'Discussion Forums' or the comment symbol <img src="../.gitbook/assets/image (1) (4).png" alt="" data-size="line"> in the main menu. The Discussion Forum layout is shown below.
 
-<figure><img src="../.gitbook/assets/forum-interface.png" alt=""><figcaption><p>Discussion forum interface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/forum-interface (3).png" alt=""><figcaption><p>Discussion forum interface</p></figcaption></figure>
 
 ## Viewing Discussions and Plans
 
@@ -38,4 +38,4 @@ You can view reports on plans same as in the Overlay Layers interface — simply
 
 To contribute, scroll to the bottom of a thread — there you can type a reply and share plans.&#x20;
 
-<figure><img src="../.gitbook/assets/share-plans.png" alt=""><figcaption><p>Replying to a discussion thread</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/share-plans (1).png" alt=""><figcaption><p>Replying to a discussion thread</p></figcaption></figure>
