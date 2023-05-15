@@ -6,6 +6,7 @@
 This article covers:
 
 * [SeaSketch project layout](./#project-page-layout)
+  * [Language selection](./#language-selection)
 * [Signing in](./#signing-in)
 * [Creating your profile and joining a project](./#creating-your-profile-and-joining-a-project)
 {% endhint %}
@@ -14,13 +15,19 @@ This article covers:
 
 On any SeaSketch project homepage you'll see a layout like the one below. The map will look different depending on the project.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-02-27 at 4.24.32 PM.png" alt=""><figcaption><p>Landing page for the Blue Azores project</p></figcaption></figure>
+<figure><img src=".gitbook/assets/project-page.png" alt=""><figcaption><p>Landing page for the Blue Azores project</p></figcaption></figure>
 
 This interface is composed of the main menu on the left where you can navigate to the various tools and options the platform offers, and the map viewer on the right. These elements are described in detail in their respective guides.&#x20;
 
 The arrow at the top right of the menu will collapse the menu panel for a better view of the map. Clicking the SeaSketch icon in the bottom left will take you to the main SeaSketch homepage.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-02-28 at 1.59.11 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/project-page-layout.png" alt=""><figcaption></figcaption></figure>
+
+### Language Selection
+
+You can select a language to view the app in by clicking the menu item shown below. The options will be dependent on the project.&#x20;
+
+<figure><img src=".gitbook/assets/choose-language.png" alt=""><figcaption></figcaption></figure>
 
 ## Signing In
 
