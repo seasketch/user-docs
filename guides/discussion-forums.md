@@ -39,13 +39,15 @@ You can view reports on plans same as in the Overlay Layers interface — simply
 
 To contribute, scroll to the bottom of a thread — there you can type a reply and share plans.&#x20;
 
-<figure><img src="../.gitbook/assets/share-plans.png" alt=""><figcaption><p>Replying to a discussion thread</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/share-plans (1).png" alt=""><figcaption><p>Replying to a discussion thread</p></figcaption></figure>
 
 ## Map Bookmarks
 
 You can "bookmark" a particular view of the map just as you see it on you screen and share it with collaborators in a discussion thread. Bookmarking captures the basemap, position, and zoom of the map viewer as well as any visible overlay layers and sketches.
 
 <figure><img src="../.gitbook/assets/share-bookmark.png" alt=""><figcaption><p>Capturing a map bookmark</p></figcaption></figure>
+
+### Map Bookmarks in Action
 
 <figure><img src="../.gitbook/assets/map-bookmark.gif" alt=""><figcaption><p>Displaying a map bookmark</p></figcaption></figure>
 
