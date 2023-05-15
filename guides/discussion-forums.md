@@ -43,7 +43,7 @@ To contribute, scroll to the bottom of a thread — there you can type a reply a
 
 ## Map Bookmarks
 
-You can "bookmark" a particular view of the map just as you see it on you screen and share it with collaborators in a discussion thread. Bookmarking captures the basemap, position, and zoom of the map viewer as well as any visible overlay layers and sketches.
+You can "bookmark" a particular view of the map just as you see it on your screen and share it with collaborators in a discussion thread. Bookmarking captures the basemap, position, and zoom of the map viewer as well as any visible overlay layers and sketches. This allows other users to see exactly what you're looking at and vice versa.
 
 <figure><img src="../.gitbook/assets/share-bookmark.png" alt=""><figcaption><p>Capturing a map bookmark</p></figcaption></figure>
 
